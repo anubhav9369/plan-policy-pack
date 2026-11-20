@@ -1,0 +1,1 @@
+{"goal":"Publish the weekly digest to the public list","id":"plan-risky-51","steps":[{"action":"Draft the digest from the week's notes","estimate":{"minutes":20,"usd":0.5},"id":"s1","why":"The list expects it every Friday"},{"action":"Publish the digest to the public list","estimate":{"minutes":5,"usd":6.0},"id":"s2","irreversible":true,"target":"public-list"}],"version":1}
